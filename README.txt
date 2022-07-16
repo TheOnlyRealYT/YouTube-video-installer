@@ -1,0 +1,1 @@
+if you are going to move the file then move the .ico with too, and put them in the same file
